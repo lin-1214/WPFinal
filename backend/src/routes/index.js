@@ -11,6 +11,7 @@ const wrap =
 function main(app) {
   app.post("/api/createLoginInfo", wrap(infoRoute.createLoginInfo));
   app.post("/api/createMonsterData", wrap(infoRoute.createMonsterData));
+  app.post("/api/createCalendarEvent", wrap(calendarRoute.createCalendarEvent))
   //app.get(
   //"/api/getCommentsByRestaurantId",
   //wrap(commentRoute.GetCommentsByRestaurantId)
