@@ -5,7 +5,7 @@ title: Readme
 # (Group 102) Qbby - tracking and planning
 [TOC]
 ## Demo 影片連結
-上傳中
+https://youtu.be/LOhZrFLTvCY
 ## 網路服務說明
 Qbby的發想是，將計時器、行事曆、代辦事項，結合像發票怪獸一樣養成、搜集怪獸的方式，讓使用者更有動力、更專注地完成每日任務和活動。
 因此，主要的功能有以下三個：
